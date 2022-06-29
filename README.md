@@ -1,13 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# HELLO_MICROVERSE
 
-> Description the project.
+> This is first project of Microverse .
 
 
 ## Built With
 
-- Major languages
+- HTML ,CSS
 - Frameworks
 - Technologies used
 
@@ -41,6 +41,7 @@ To get a local copy up and running follow these simple example steps.
 ## Authors
 
 👤 **Author1**
+Megha Nitin Bodke
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
